@@ -60,12 +60,5 @@ public class Main {
         session.save(p1);
 
         t.commit();
-
-
-
-
-
-
     }
-
 }
